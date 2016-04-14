@@ -1,1 +1,156 @@
-,Board,Executive Management,Senior Management,Lawyers,Managers,Traders,Specialists,Associates,0,7,2,12,22,3,21,10,,7,1,,,,9,8,,,1,,,,,2,,,2,,,,,,,,28,,,,,,,,37,,,,,Total,0,14,71,12,22,3,30,20
+ID,Name,EmailID,Folder,Department,Title,Sex
+1,Phillip K. Allen,pallen,allen-p,ENA Gas West,Managing Director Trading,M
+2,John Arnold,jarnold,arnold-j,ENA Gas Financial,VP Trading,M
+3,Harry Arora,harora,arora-h,ENA East Power,VP Trading,M
+4,Robert Badeer,rbadeer,badeer-r,ENA West Power,Manager Trading,M
+5,Susan Bailey,sbaile2,bailey-s,ENA Legal,Specialist Legal,F
+6,Eric Bass,ebass,bass-e,ENA Gas Texas,Trader,M
+7,Don Baughman Jr.,dbaughm,baughman-d,ENA East Power,Manager Trading,M
+8,Sally Beck,sbeck,beck-s,Energy Operations,VP,F
+9,Robert Benson,rbenson,benson-r,ENA East Power,Director Trading,M
+10,Lynn Blair,lblair,blair-l,ETS,Director,F
+11,Sandra F. Brawner,sbrawne,brawner-s,ENA Gas East,Director Trading,F
+12,Rick Buy,rbuy,buy-r,Enron,VP & CRO,M
+13,Larry Campbell,lcampbe,campbell-l,ETS,Specialist,M
+14,Mike Carson,mcarson2,carson-m,ENA East Power,Manager Trading,M
+15,Michelle Cash,mcash,cash-m,ENA Legal,Attorney,F
+16,Monika Causholli,mcaushol,causholli-m,ENA West Power Real Time,Analyst,F
+17,Shelley Corman,scorman,corman-s,ETS,VP,F
+18,Sean Crandall,scranda,crandell-s,ENA West Power,Director Trading,M
+19,Martin Cuilla,mcuilla,cuilla-m,ENA Gas Central,Manager Trading,M
+20,Jeff Dasovich,jdasovic,dasovich-j,Regulatory and Government Affairs,Director,M
+21,Dana Davis,ddavis,davis-d,N/A,Administrator,F
+22,Clint Dean,cdean,dean-c,ENA East Power,Manager Trading,M
+23,Craig Dean,cdean2,dean-c,ENA West Power Real Time,Specialist,M
+24,David W. Delainey,ddelain2,delainey-d,EWS,President & CEO,M
+25,James Derrick Jr.,jderric,derrick-j,Enron,VP & General Counsel,M
+26,Stacy E. Dickson,sdickso,dickson-s,ENA Legal,Counsel,F
+27,Lindy Donoho,ldonoho,donoho-l,ETS,Employee,F
+28,Tom Donohoe,tdonoho,donohoe-t,ENA Gas Central,Manager Trading,M
+29,Chris Dorland,cdorlan,dorland-c,ENA East Power,Manager Trading,M
+30,Frank Ermis,fermis,ermis-f,ENA Gas West,Director Trading,M
+31,Daren J. Farmer,dfarmer,farmer-d,ENA Gas Texas,Director Trading,M
+32,Mary Fischer,mfischer,fischer-m,N/A,Employee,F
+33,John M. Forney,jforney,forney-j,ENA East Power,Director Trading,M
+34,Drew Fossum,dfossum,fossum-d,ETS,VP & General Counsel,M
+35,Lisa Gang,lgang,gang-l,ENA West Power,Specialist,F
+36,Randall L. Gay,rgay,gay-r,ENA Gas West,Associate,M
+37,Rob G. Gay,N/A,gay-r,N/A,Employee,M
+38,Tracy Geaccone,tgeacco,geaccone-t,ETS,Assistant,F
+39,Chris Germany,cgerman,germany-c,ENA Gas East,Manager Trading,M
+40,Doug Gilbert-Smith,dsmith3,gilbertsmith-d,ENA East Power,Director Trading,M
+41,Darron C. Giron,dgiron,giron-d,Energy Operations,Manager Trading,M
+42,John Griffith,jgri´ŒÛt,gri´ŒÛth-j,ENA Gas Financial,Manager Trading,M
+43,Mike Grigsby,Managerigsb,grigsby-m,ENA Gas West,VP Trading,M
+44,Mark Guzman,mguzman3,guzman-m,ENA West Power Real Time,Specialist,M
+45,Mark E. Haedicke,mhaedic,haedicke-m,ENA Legal,Managing Director & General Counsel,M
+46,Mary Hain,mhain,hain-m,Regulatory and Government Affairs,Director,F
+47,Steven Harris,sharris1,harris-s,ETS,VP,M
+48,Rod Hayslett,rhaysle,hayslett-r,ETS,VP & CFO,M
+49,Marie Heard,mheard,heard-m,ENA Legal,Specialist Legal,F
+50,Scott Hendrickson,shendri,hendrickson-s,ENA Gas East,Director Trading,M
+51,Juan Hernandez,jhernan3,hernandez-j,ENA East Power,Manager Trading,M
+52,Judy Hernandez,jhernan,hernandez-j,Energy Operations,Administrator,F
+53,Jeffrey T. Hodge,jhodge,hodge-j,ENA Legal,VP & Asst General Counsel,M
+54,John Hodge,jhodge2,hodge-j,ENA Gas East,Director Trading,M
+55,Keith Holst,kholst,holst-k,ENA Gas West,Director Trading,M
+56,Stanley Horton,shorton,horton-s,ETS,President & CEO,M
+57,Kevin Hyatt,khyatt,hyatt-k,ETS,Director,M
+58,Dan J. Hyvl,dhyvl,hyvl-d,ENA Legal,Employee,M
+59,Tana Jones,tjones,jones-t,ENA Legal,Specialist Legal,F
+60,Vince J. Kaminski,vkamins,kaminski-v,EWS,Managing Director Research,M
+61,Steven J. Kean,skean,kean-s,Enron,VP & Chief of Staff,M
+62,Peter F. Keavey,pkeavey,keavey-p,ENA Gas East,Manager Trading,M
+63,Kam Keiser,kkeiser,keiser-k,Energy Operations,Manager Trading,M
+64,Jeff King,jking6,king-j,ENA East Power,Manager Trading,M
+65,Louise Kitchen,lkitchen,kitchen-l,EWS,COO,F
+66,Tori Kuykendall,tkuyken,kuykendall-t,ENA Gas West,Manager Trading,F
+67,John J. Lavorato,jlavora,lavorato-j,EWS,ENA President & CEO,M
+68,Kenneth Lay,klay,lay-k,Enron,President & CEO,M
+69,Matthew Lenhart,mlenhar,lenhart-m,ENA Gas West,Analyst,M
+70,Andrew H. Lewis,alewis,lewis-a,ENA Gas Central,Director Trading,M
+71,Eric Linder,elinder,linder-e,ENA West Power Real Time,Specialist,M
+72,Michelle Lokay,mlokay,lokay-m,ETS,Director,F
+73,Teb Lokey,tlokey,lokey-t,ETS,Employee,M
+74,Phillip M. Love,plove,love-p,Energy Operations,Specialist,M
+75,Paul T. Lucci,plucci,lucci-p,ENA Gas West,Director Trading,M
+76,Mike Maggi,mmaggi,maggi-m,ENA Gas Financial,Director Trading,M
+77,Kay Mann,kmann,mann-k,ENA Legal,Director & Counsel,F
+78,Thomas A. Martin,tmartin,martin-t,ENA Gas Texas,VP Trading,M
+79,Larry May,lmay2,may-l,ENA Gas Financial,Director Trading,M
+80,Danny McCarty,dmccarty,mccarty-d,ETS,VP & CTO,M
+81,Mark McConnell,mmcconne,mcconnell-m,ETS,Director,M
+82,Mike McConnell,mmccon1,mcconnell-m,EWS,EGM President & CEO,M
+83,Brad McKay,bmckay,mckay-b,ENA Gas East,Director Trading,M
+84,Jonathan McKay,jmckay1,mckay-j,ENA Gas East,Director Trading,M
+85,Errol McLaughlin Jr.,emclaug,mclaughlin-e,Energy Operations,Specialist,M
+86,Steven Merris,smerris,merriss-s,ENA West Power Real Time,Specialist,M
+87,Bert Meyers,bmeyers,meyers-a,ENA West Power Real Time,Specialist,M
+88,Patrice L. Mims,pmims,mims-thurston-p,ENA Gas Central,Director Trading,F
+89,Matt Motley,mmotley,motley-m,ENA West Power Real Time,Director Trading,M
+90,Scott Neal,sneal,neal-s,ENA Gas East,VP Trading,M
+91,Gerald Nemec,gnemec,nemec-g,ENA Legal,Manager,M
+92,Stephanie Panus,spanus,"panus-s, phanis-s",ENA Legal,Specialist Legal,F
+93,Joe Parks,jparks,parks-j,ENA Gas Central,Manager Trading,M
+94,Susan W. Pereira,spereir,pereira-s,ENA Gas East,Manager Trading,F
+95,Debra Perlingiere,dperlin,perlingiere-d,ENA Legal,Specialist Legal,F
+96,Vladi Pimenov,vpimenov,pimenov-v,ENA Gas East,Associate,M
+97,Phillip Platter,pplatte,platter-p,ENA West Power,Specialist,M
+98,Kevin M. Presto,kpresto,presto-k,ENA East Power,VP Trading,M
+99,Joe Quenet,jquenet,quenet-j,ENA East Power,Manager Trading,M
+100,Dutch Quigley,dquigle,quigley-d,ENA Gas Financial,Associate,M
+101,Bill Rapp,brapp,rapp-b,ETS,Attorney,M
+102,Jay Reitmeyer,jreitme,reitmeyer-j,ENA Gas West,Associate,M
+103,Cooper Richey,crichey,richey-c,ENA West Power,Associate,M
+104,Andrea Ring,aring,ring-a,ENA Gas East,Director Trading,F
+105,Richard Ring,rring,ring-r,EES,Employee,M
+106,Robin Rodrigue,rrodri2,rodrigue-r,ENA Gas Central,Analyst,M
+107,Benjamin Rogers,brogers,rogers-b,ENA East Power,Associate,M
+108,Kevin Ruscitti,kruscit,ruscitti-k,ENA Gas Central,Manager Trading,M
+109,Elizabeth Sager,esager,sager-e,ENA Legal,VP & Asst General Counsel,F
+110,Eric Saibi,esaibi,saibi-e,ENA East Power,Analyst,M
+111,Holden Salisbury,hsalisbu,salisbury-h,ENA West Power,Analyst,M
+112,Monique Sanchez,msanch2,sanchez-m,ENA Gas West,Associate,F
+113,Richard B. Sanders,rsander,sanders-r,ENA Legal,VP & Asst General Counsel,M
+114,Diana Scholtes,dscholt,scholtes-d,ENA West Power,Director Trading,F
+115,Darrell Schoolcraft,dschool,schoolcraft-d,ETS,Employee,M
+116,Jim Schwieger,jschwie,schwieger-j,ENA Gas Texas,Trader,M
+117,Susan Scott,sscott3,scott-s,ETS,Counsel,F
+118,Susan M. Scott,sscott5,scott-s,ENA Gas West,Analyst,F
+119,Cara Semperger,csemper,semperger-c,ENA West Power,Specialist,F
+120,Sara Shackleton,sshackl,shackleton-s,ENA Legal,General Counsel Asst,F
+121,Jeffrey A. Shankman,jshankm,shankman-j,EWS,COO,M
+122,Richard Shapiro,rshapiro,shapiro-r,Regulatory and Government Affairs,VP of Regulatory Affairs,M
+123,Hunter S. Shively,hshivel,shively-h,ENA Gas Central,VP Trading,M
+124,Jeff Skilling,jskillin,skilling-j,Enron,President & CEO,M
+125,Ryan Slinger,rslinger,slinger-r,ENA West Power Real Time,Specialist,M
+126,Matt Smith,msmith18,smith-m,ENA Gas West,Associate,M
+127,Geir Solberg,gsolber,solberg-g,ENA West Power Real Time,Analyst,M
+128,Steven P. South,ssouth,south-s,ENA Gas West,Director Trading,M
+129,Theresa Staab,tstaab,staab-t,ENA Gas West,Specialist,F
+130,Carol St Clair,cstclai,stclair-c,ENA Legal,Director & General Counsel Asst,F
+131,James D. Steffes,jsteffe,steffes-j,Regulatory and Government Affairs,VP of Government Affairs,M
+132,Joe Stepenovitch,jstepeno,stepenovitch-j,ENA East Power,Specialist,M
+133,Chris Stokley,mstokle,stokley-c,ENA West Power,Specialist,M
+134,Geoff Storey,gstorey,storey-g,ENA Gas Central,Director Trading,M
+135,Fletcher J. Sturm,fsturm,sturm-f,ENA East Power,VP Trading,M
+136,Mike Swerzbin,mswerzb,swerzbin-m,ENA West Power,VP Trading,M
+137,Kate Symes,ksymes,symes-k,ENA West Power Real Time,Employee,F
+138,Mark E. Taylor,mtaylo1,taylor-m,ENA Legal,VP & General Counsel,M
+139,Michael E. Taylor,mtaylor5,taylor-m,Energy Operations,Trader,M
+140,Jane M. Tholt,jtholt,tholt-j,ENA Gas West,Director Trading,F
+141,Paul D. Thomas,pthomas2,thomas-p,ENA East Power,Associate,M
+142,Judy Townsend,jtownse,townsend-j,ENA Gas East,Manager Trading,F
+143,Barry Tycholiz,btychol,tycholiz-b,ENA Gas West,VP Trading,M
+144,Kim S. Ward,kward,ward-k,ENA Gas West,Manager Trading,F
+145,Kimberly Watson,kwatson,watson-k,ETS,Director,F
+146,V Charles Weldon,vweldon,weldon-c,ENA Gas Texas,Associate,M
+147,Greg Whalley,gwhalle,"whalley-g, whalley-l",EWS,President & CEO,M
+148,Stacey W. White,swhite,white-s,Energy Operations,Director,F
+149,Mark Whitt,mwhitt,whitt-m,ENA Gas West,VP Trading,M
+150,Jason Williams,jwillia,williams-j,ENA Gas Central,Specialist,M
+151,Bill Williams III,bwillia5,williams-w3,ENA West Power Real Time,Analyst,M
+152,Jason Wolfe,jwolfe,wolfe-j,ENA Gas West,Analyst,M
+153,Paul Y'Barbo,pybarbo,ybarbo-p,ETS,Director,M
+154,Andy Zipper,azipper,zipper-a,EWS,VP of Enron Online,M
+155,John Zufferli,jzuffer,zufferli-j,EWS,VP of Enron Canada,M
