@@ -1,0 +1,156 @@
+"","User_ID","Name","Gender","Department","Title","Community_ID"
+"1",1,"Phillip.K..Allen","M","ENA Gas West","Managing Director Trading",8
+"2",2,"John.Arnold","M","ENA Gas Financial","VP Trading",9
+"3",3,"Harry.Arora","M","ENA East Power","VP Trading",9
+"4",4,"Robert.Badeer","M","ENA West Power","Manager Trading",13
+"5",5,"Susan.Bailey","F","ENA Legal","Specialist Legal",12
+"6",6,"Eric.Bass","M","ENA Gas Texas","Trader",8
+"7",7,"Don.Baughman.Jr.","M","ENA East Power","Manager Trading",1
+"8",8,"Sally.Beck","F","Energy Operations","VP",9
+"9",9,"Robert.Benson","M","ENA East Power","Director Trading",9
+"10",10,"Lynn.Blair","F","ETS","Director",11
+"11",11,"Sandra.F..Brawner","F","ENA Gas East","Director Trading",9
+"12",12,"Rick.Buy","M","Enron","VP & CRO",9
+"13",13,"Larry.Campbell","M","ETS","Specialist",11
+"14",14,"Mike.Carson","M","ENA East Power","Manager Trading",9
+"15",15,"Michelle.Cash","F","ENA Legal","Attorney",12
+"16",16,"Monika.Causholli","F","ENA West Power Real Time","Analyst",15
+"17",17,"Shelley.Corman","F","ETS","VP",11
+"18",18,"Sean.Crandall","M","ENA West Power","Director Trading",15
+"19",19,"Martin.Cuilla","M","ENA Gas Central","Manager Trading",18
+"20",20,"Jeff.Dasovich","M","Regulatory and Government Affairs","Director",13
+"21",21,"Dana.Davis","F","N/A","Administrator",9
+"22",22,"Clint.Dean","M","ENA East Power","Manager Trading",9
+"23",23,"Craig.Dean","M","ENA West Power Real Time","Specialist",15
+"24",24,"David.W..Delainey","M","EWS","President & CEO",13
+"25",25,"James.Derrick.Jr.","M","Enron","VP & General Counsel",2
+"26",26,"Stacy.E..Dickson","F","ENA Legal","Counsel",19
+"27",27,"Lindy.Donoho","F","ETS","Employee",11
+"28",28,"Tom.Donohoe","M","ENA Gas Central","Manager Trading",18
+"29",29,"Chris.Dorland","M","ENA East Power","Manager Trading",9
+"30",30,"Frank.Ermis","M","ENA Gas West","Director Trading",8
+"31",31,"Daren.J..Farmer","M","ENA Gas Texas","Director Trading",9
+"32",32,"Mary.Fischer","F","N/A","Employee",3
+"33",33,"John.M..Forney","M","ENA East Power","Director Trading",9
+"34",34,"Drew.Fossum","M","ETS","VP & General Counsel",11
+"35",35,"Lisa.Gang","F","ENA West Power","Specialist",15
+"36",36,"Randall.L..Gay","M","ENA Gas West","Associate",8
+"37",37,"Rob.G..Gay","M","N/A","Employee",4
+"38",38,"Tracy.Geaccone","F","ETS","Assistant",11
+"39",39,"Chris.Germany","M","ENA Gas East","Manager Trading",18
+"40",40,"Doug.Gilbert.Smith","M","ENA East Power","Director Trading",9
+"41",41,"Darron.C..Giron","M","Energy Operations","Manager Trading",8
+"42",42,"John.Griffith","M","ENA Gas Financial","Manager Trading",5
+"43",43,"Mike.Grigsby","M","ENA Gas West","VP Trading",8
+"44",44,"Mark.Guzman","M","ENA West Power Real Time","Specialist",15
+"45",45,"Mark.E..Haedicke","M","ENA Legal","Managing Director & General Counsel",9
+"46",46,"Mary.Hain","F","Regulatory and Government Affairs","Director",13
+"47",47,"Steven.Harris","M","ETS","VP",11
+"48",48,"Rod.Hayslett","M","ETS","VP & CFO",11
+"49",49,"Marie.Heard","F","ENA Legal","Specialist Legal",12
+"50",50,"Scott.Hendrickson","M","ENA Gas East","Director Trading",18
+"51",51,"Juan.Hernandez","M","ENA East Power","Manager Trading",9
+"52",52,"Judy.Hernandez","F","Energy Operations","Administrator",9
+"53",53,"Jeffrey.T..Hodge","M","ENA Legal","VP & Asst General Counsel",12
+"54",54,"John.Hodge","M","ENA Gas East","Director Trading",18
+"55",55,"Keith.Holst","M","ENA Gas West","Director Trading",8
+"56",56,"Stanley.Horton","M","ETS","President & CEO",11
+"57",57,"Kevin.Hyatt","M","ETS","Director",11
+"58",58,"Dan.J..Hyvl","M","ENA Legal","Employee",6
+"59",59,"Tana.Jones","F","ENA Legal","Specialist Legal",12
+"60",60,"Vince.J..Kaminski","M","EWS","Managing Director Research",7
+"61",61,"Steven.J..Kean","M","Enron","VP & Chief of Staff",13
+"62",62,"Peter.F..Keavey","M","ENA Gas East","Manager Trading",8
+"63",63,"Kam.Keiser","M","Energy Operations","Manager Trading",8
+"64",64,"Jeff.King","M","ENA East Power","Manager Trading",9
+"65",65,"Louise.Kitchen","F","EWS","COO",9
+"66",66,"Tori.Kuykendall","F","ENA Gas West","Manager Trading",8
+"67",67,"John.J..Lavorato","M","EWS","ENA President & CEO",13
+"68",68,"Kenneth.Lay","M","Enron","President & CEO",9
+"69",69,"Matthew.Lenhart","M","ENA Gas West","Analyst",8
+"70",70,"Andrew.H..Lewis","M","ENA Gas Central","Director Trading",9
+"71",71,"Eric.Linder","M","ENA West Power Real Time","Specialist",15
+"72",72,"Michelle.Lokay","F","ETS","Director",11
+"73",73,"Teb.Lokey","M","ETS","Employee",11
+"74",74,"Phillip.M..Love","M","Energy Operations","Specialist",8
+"75",75,"Paul.T..Lucci","M","ENA Gas West","Director Trading",19
+"76",76,"Mike.Maggi","M","ENA Gas Financial","Director Trading",9
+"77",77,"Kay.Mann","F","ENA Legal","Director & Counsel",12
+"78",78,"Thomas.A..Martin","M","ENA Gas Texas","VP Trading",9
+"79",79,"Larry.May","M","ENA Gas Financial","Director Trading",9
+"80",80,"Danny.McCarty","M","ETS","VP & CTO",11
+"81",81,"Mark.McConnell","M","ETS","Director",11
+"82",82,"Mike.McConnell","M","EWS","EGM President & CEO",9
+"83",83,"Brad.McKay","M","ENA Gas East","Director Trading",18
+"84",84,"Jonathan.McKay","M","ENA Gas East","Director Trading",18
+"85",85,"Errol.McLaughlin.Jr.","M","Energy Operations","Specialist",10
+"86",86,"Steven.Merris","M","ENA West Power Real Time","Specialist",15
+"87",87,"Bert.Meyers","M","ENA West Power Real Time","Specialist",15
+"88",88,"Patrice.L..Mims","F","ENA Gas Central","Director Trading",19
+"89",89,"Matt.Motley","M","ENA West Power Real Time","Director Trading",15
+"90",90,"Scott.Neal","M","ENA Gas East","VP Trading",18
+"91",91,"Gerald.Nemec","M","ENA Legal","Manager",19
+"92",92,"Stephanie.Panus","F","ENA Legal","Specialist Legal",12
+"93",93,"Joe.Parks","M","ENA Gas Central","Manager Trading",18
+"94",94,"Susan.W..Pereira","F","ENA Gas East","Manager Trading",8
+"95",95,"Debra.Perlingiere","F","ENA Legal","Specialist Legal",19
+"96",96,"Vladi.Pimenov","M","ENA Gas East","Associate",18
+"97",97,"Phillip.Platter","M","ENA West Power","Specialist",15
+"98",98,"Kevin.M..Presto","M","ENA East Power","VP Trading",9
+"99",99,"Joe.Quenet","M","ENA East Power","Manager Trading",9
+"100",100,"Dutch.Quigley","M","ENA Gas Financial","Associate",9
+"101",101,"Bill.Rapp","M","ETS","Attorney",11
+"102",102,"Jay.Reitmeyer","M","ENA Gas West","Associate",8
+"103",103,"Cooper.Richey","M","ENA West Power","Associate",8
+"104",104,"Andrea.Ring","F","ENA Gas East","Director Trading",18
+"105",105,"Richard.Ring","M","EES","Employee",18
+"106",106,"Robin.Rodrigue","M","ENA Gas Central","Analyst",8
+"107",107,"Benjamin.Rogers","M","ENA East Power","Associate",9
+"108",108,"Kevin.Ruscitti","M","ENA Gas Central","Manager Trading",18
+"109",109,"Elizabeth.Sager","F","ENA Legal","VP & Asst General Counsel",12
+"110",110,"Eric.Saibi","M","ENA East Power","Analyst",9
+"111",111,"Holden.Salisbury","M","ENA West Power","Analyst",15
+"112",112,"Monique.Sanchez","F","ENA Gas West","Associate",8
+"113",113,"Richard.B..Sanders","M","ENA Legal","VP & Asst General Counsel",9
+"114",114,"Diana.Scholtes","F","ENA West Power","Director Trading",15
+"115",115,"Darrell.Schoolcraft","M","ETS","Employee",11
+"116",116,"Jim.Schwieger","M","ENA Gas Texas","Trader",9
+"117",117,"Susan.Scott","F","ETS","Counsel",11
+"118",118,"Susan.M..Scott","F","ENA Gas West","Analyst",8
+"119",119,"Cara.Semperger","F","ENA West Power","Specialist",15
+"120",120,"Sara.Shackleton","F","ENA Legal","General Counsel Asst",12
+"121",121,"Jeffrey.A..Shankman","M","EWS","COO",9
+"122",122,"Richard.Shapiro","M","Regulatory and Government Affairs","VP of Regulatory Affairs",13
+"123",123,"Hunter.S..Shively","M","ENA Gas Central","VP Trading",9
+"124",124,"Jeff.Skilling","M","Enron","President & CEO",9
+"125",125,"Ryan.Slinger","M","ENA West Power Real Time","Specialist",15
+"126",126,"Matt.Smith","M","ENA Gas West","Associate",8
+"127",127,"Geir.Solberg","M","ENA West Power Real Time","Analyst",15
+"128",128,"Steven.P..South","M","ENA Gas West","Director Trading",8
+"129",129,"Theresa.Staab","F","ENA Gas West","Specialist",19
+"130",130,"Carol.St.Clair","F","ENA Legal","Director & General Counsel Asst",14
+"131",131,"James.D..Steffes","M","Regulatory and Government Affairs","VP of Government Affairs",13
+"132",132,"Joe.Stepenovitch","M","ENA East Power","Specialist",9
+"133",133,"Chris.Stokley","M","ENA West Power","Specialist",13
+"134",134,"Geoff.Storey","M","ENA Gas Central","Director Trading",9
+"135",135,"Fletcher.J..Sturm","M","ENA East Power","VP Trading",9
+"136",136,"Mike.Swerzbin","M","ENA West Power","VP Trading",15
+"137",137,"Kate.Symes","F","ENA West Power Real Time","Employee",15
+"138",138,"Mark.E..Taylor","M","ENA Legal","VP & General Counsel",16
+"139",139,"Michael.E..Taylor","M","Energy Operations","Trader",17
+"140",140,"Jane.M..Tholt","F","ENA Gas West","Director Trading",8
+"141",141,"Paul.D..Thomas","M","ENA East Power","Associate",9
+"142",142,"Judy.Townsend","F","ENA Gas East","Manager Trading",18
+"143",143,"Barry.Tycholiz","M","ENA Gas West","VP Trading",19
+"144",144,"Kim.S..Ward","F","ENA Gas West","Manager Trading",9
+"145",145,"Kimberly.Watson","F","ETS","Director",11
+"146",146,"V.Charles.Weldon","M","ENA Gas Texas","Associate",8
+"147",147,"Greg.Whalley","M","EWS","President & CEO",9
+"148",148,"Stacey.W..White","F","Energy Operations","Director",9
+"149",149,"Mark.Whitt","M","ENA Gas West","VP Trading",19
+"150",150,"Jason.Williams","M","ENA Gas Central","Specialist",12
+"151",151,"Bill.Williams.III","M","ENA West Power Real Time","Analyst",20
+"152",152,"Jason.Wolfe","M","ENA Gas West","Analyst",8
+"153",153,"Paul.Y.Barbo","M","ETS","Director",11
+"154",154,"Andy.Zipper","M","EWS","VP of Enron Online",9
+"155",155,"John.Zufferli","M","EWS","VP of Enron Canada",9
