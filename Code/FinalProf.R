@@ -180,17 +180,17 @@ plot(network,
      frame = F)
 dev.off()
 
-
+pdf("plots/Cumulative_degree_distribution.pdf")
 par(mar=c(1,1,1,1)+4)
 dd <- degree.distribution(network, cumulative=T, mode="all")
 plot(dd, pch=19, cex=1, col=V(network)$color, xlab="Degree", ylab ="Cumulative Frequency")
-
+dev.off()
 
 
 #Community detection stuff
 #net.undir <- as.undirected(network)
 
-net.undir <- simplify(network, remove.multiple = TRUE, remove.loops = TRUE)
+net.undir <- simplify(network, remove.multiple = FALSE, remove.loops = TRUE)
 l1 <- layout_with_kk(net.undir)
 l2 <- layout_nicely(net.undir)
 l3 <- layout.fruchterman.reingold(net.undir)
@@ -200,23 +200,54 @@ comdet <- cluster_louvain(net.undir)
 len <- length(comdet) # how many are there
 lou_size <- sizes(comdet) # how many inside each?
 memb <- membership(comdet)
+V(net.undir)$membership <- memb
+
+
+summary(net.undir)
 
 ls.df <- as.data.frame(lou_size) # make it a dataframe
-head(memb)
-
 colnames(ls.df) <- c("Community_ID", "Num_Nodes") # fix the column names
 View(ls.df) # take a peak
+
+write.csv(ls.df, "Data/Community_sizes_dat.csv")
+
+head(memb)
+
+Memb_df <- data.frame(V(net.undir)$id,
+                      V(net.undir)$name, 
+                      V(net.undir)$gender, 
+                      V(net.undir)$dept, 
+                      V(net.undir)$title,
+                      V(net.undir)$membership)
+
+colnames(Memb_df) <- c("User_ID", 
+                       "Name", 
+                       "Gender",
+                       "Department",
+                       "Title",
+                       "Community_ID")
+
+View(Memb_df)
+write.csv(data_df, "Data/Membership_dat.csv")
+
 
 pdf("plots/Communities_1.pdf")
 set.seed(986)
 
 par(mar=c(0,0,0,0)+.1)
-plot(comdet, net.undir, layout = l3, edge.arrow.size = 0.3, vertex.label=NA, vertex.size=5)
+plot(comdet, net.undir, layout = l1, edge.arrow.size = 0.2, vertex.label=NA, vertex.size=5)
+dev.off()
+
+pdf("plots/Communities_nice_layout.pdf")
+set.seed(986)
+
+par(mar=c(0,0,0,0)+.1)
+plot(comdet, net.undir, layout = l2, edge.arrow.size = 0.2, vertex.label=NA, vertex.size=5)
 dev.off()
 
 
 #Disregard below
-net <- simplify(network, remove.multiple = TRUE, remove.loops = TRUE)
+net <- simplify(network, remove.multiple = FALSE, remove.loops = TRUE)
 summary(net)
 net <- as.undirected(net)
 summary(net)
