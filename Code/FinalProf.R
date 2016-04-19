@@ -47,6 +47,8 @@ V(network)$email <- as.character(att$EmailID)
 V(network)$title <- as.character(att$Title)
 V(network)$betweenness <- centralization.betweenness(network)$res
 V(network)$eigen <- eigen_centrality(network, directed = TRUE)$vector
+colrs <- c("orange2", "sky blue2") 
+V(network)$color <- colrs[V(network)$sex]
 
 
 
@@ -91,20 +93,6 @@ lay8 <- layout_with_dh(network)
 #plots
 set.seed(875)
 par(mar=c(0,0,0,0)+0.1)
-
-pdf("plots/Eigenvector_Centrality.pdf")
-plot(network,
-     layout = lay2, 
-     vertex.label = ifelse(V(network)$eigen > 6.336772e-02, V(network)$title, NA),
-     vertex.label.color = "black",
-     vertex.label.cex = 0.8,
-     vertex.color = V(network)$sex,
-     vertex.frame.color = "white",
-     vertex.size = ifelse(V(network)$eigen > 6.336772e-02, 12, 4),
-     edge.arrow.size = 0.3,
-     edge.color = "grey")
-dev.off()
-
 #Degree Centrality plot
 pdf("plots/Degree_Centrality.pdf")
 plot(network,
@@ -112,25 +100,12 @@ plot(network,
      vertex.label = ifelse(V(network)$degree > 45, V(network)$title, NA),
      vertex.label.color = "black",
      vertex.label.cex = 0.8,
-     vertex.color = V(network)$sex,
+     vertex.color = V(network)$color,
      vertex.frame.color = "white",
      vertex.size = V(network)$degree*0.2,
      edge.arrow.size = 0.3,
-     edge.color = "grey")
-dev.off()
-
-#Degree Centrality plot
-pdf("plots/Degree_Centrality_top10_by_gender.pdf")
-plot(network,
-     layout = lay2, 
-     vertex.label = NA,
-     vertex.label.color = "black",
-     vertex.label.cex = 0.8,
-     vertex.color = ifelse(V(network)$degree > 45, V(network)$sex, "slate grey"),
-     vertex.frame.color = "white",
-     vertex.size = ifelse(V(network)$degree > 45, V(network)$degree*0.2, 3),
-     edge.arrow.size = 0.3,
-     edge.color = "grey")
+     edge.color = "grey",
+     main="Degree Centrality")
 dev.off()
 
 #Betweenness Centrality plot
@@ -139,88 +114,134 @@ plot(network,
      layout = lay2, 
      vertex.label = ifelse(V(network)$betweenness > 750, V(network)$title, NA),
      vertex.label.color = "black",
-     vertex.color = V(network)$sex,
+     vertex.color = V(network)$color,
      vertex.frame.color = "white",
-     vertex.size = V(network)$betweenness*0.015,
+     vertex.size = V(network)$betweenness*0.012,
      edge.arrow.size = 0.3,
-     edge.color = "grey")
-
+     edge.color = "grey",
+     main ="Betweenness Centrality")
 dev.off()
 
-#Betweenness Centrality plot
-pdf("plots/Betweenness_Centrality.pdf")
-plot(network,
-     layout = lay2, 
-     vertex.label = ifelse(V(network)$betweenness > 750, V(network)$title, NA),
-     vertex.label.color = "black",
-     vertex.color = V(network)$sex,
-     vertex.frame.color = "white",
-     vertex.size = V(network)$betweenness*0.015,
-     edge.arrow.size = 0.3,
-     edge.color = "grey")
-
-dev.off()
-
-
-
+#Eigenvector Centrality plot
 pdf("plots/Eigenvector_Centrality.pdf")
 plot(network,
      layout = lay2, 
-     vertex.label = ifelse(V(network)$eigen > 6.336772e-02, V(network)$title, NA),
+     vertex.label = ifelse(V(network)$eigen > 4.8e-02, V(network)$title, NA),
      vertex.label.color = "black",
      vertex.label.cex = 0.8,
-     vertex.color = V(network)$sex,
+     vertex.color = V(network)$color,
      vertex.frame.color = "white",
-     vertex.size = ifelse(V(network)$eigen > 6.336772e-02, 12, 4),
+     vertex.size = ifelse(V(network)$eigen > 4.8e-02, 15, 4),
      edge.arrow.size = 0.3,
-     edge.color = "grey")
+     edge.color = "grey",
+     main = "Eigenvector Centrality")
 dev.off()
 
-pdf("plots/Eigenvector_Centrality_no_label.pdf")
+
+#Side by side plots
+pdf("plots/Centrality_measures_top_10.pdf")
+par(mfrow=c(1,3), mar=c(0,0,1.5,0))
 plot(network,
      layout = lay2, 
      vertex.label = NA,
      vertex.label.color = "black",
      vertex.label.cex = 0.8,
-     vertex.color = V(network)$sex,
+     vertex.color = ifelse(V(network)$degree > 45, V(network)$color, "slate grey"),
      vertex.frame.color = "white",
-     vertex.size = ifelse(V(network)$eigen > 6.336772e-02, 12, 4),
+     vertex.size = ifelse(V(network)$degree > 45, V(network)$degree*0.2, 3),
      edge.arrow.size = 0.3,
-     edge.color = "grey")
+     edge.color = "grey",
+     main= "Degree",
+     frame = T)
+
+plot(network,
+     layout = lay2, 
+     vertex.label = NA,
+     vertex.label.color = "black",
+     vertex.color = ifelse(V(network)$betweenness > 750, V(network)$color, "slate grey"),
+     vertex.frame.color = "white",
+     vertex.size = ifelse(V(network)$betweenness > 750, V(network)$betweenness*0.015, 3),
+     edge.arrow.size = 0.3,
+     edge.color = "grey",
+     main="Betweenness",
+     frame = F)
+
+plot(network,
+     layout = lay2, 
+     vertex.label = NA,
+     vertex.label.color = "black",
+     vertex.label.cex = 0.8,
+     vertex.color = ifelse(V(network)$eigen > 4.8e-02, V(network)$color, "slate grey"),
+     vertex.frame.color = "white",
+     vertex.size = ifelse(V(network)$eigen > 4.8e-02, 15, 4),
+     edge.arrow.size = 0.3,
+     edge.color = "grey",
+     main="Eigenvector",
+     frame = F)
 dev.off()
 
 
+par(mar=c(1,1,1,1)+4)
+dd <- degree.distribution(network, cumulative=T, mode="all")
+plot(dd, pch=19, cex=1, col=V(network)$color, xlab="Degree", ylab ="Cumulative Frequency")
 
-#Community detection stuff (still in progress)
 
-network <- igraph::delete.vertices(network, which(degree(network) < 1))
-network <- igraph::delete.vertices(network, V(network)[V(network)$degree < 1])
-summary(network)
 
-net.undir <- as.undirected(network)
+#Community detection stuff
+#net.undir <- as.undirected(network)
+
+net.undir <- simplify(network, remove.multiple = TRUE, remove.loops = TRUE)
 l1 <- layout_with_kk(net.undir)
 l2 <- layout_nicely(net.undir)
 l3 <- layout.fruchterman.reingold(net.undir)
 
-net.undir <- simplify(net.undir, remove.multiple = TRUE, remove.loops = TRUE)
-net.undir <- igraph::delete.vertices(net.undir, which(degree(net.undir) < 1))
+
 comdet <- cluster_louvain(net.undir)
-
-
 len <- length(comdet) # how many are there
 lou_size <- sizes(comdet) # how many inside each?
 memb <- membership(comdet)
+
 ls.df <- as.data.frame(lou_size) # make it a dataframe
 head(memb)
+
 colnames(ls.df) <- c("Community_ID", "Num_Nodes") # fix the column names
 View(ls.df) # take a peak
 
-pdf("plots/memplot1.pdf")
+pdf("plots/Communities_1.pdf")
+set.seed(986)
+
+par(mar=c(0,0,0,0)+.1)
+plot(comdet, net.undir, layout = l3, edge.arrow.size = 0.3, vertex.label=NA, vertex.size=5)
+dev.off()
+
+
+#Disregard below
+net <- simplify(network, remove.multiple = TRUE, remove.loops = TRUE)
+summary(net)
+net <- as.undirected(net)
+summary(net)
+net.undir <- igraph::delete.vertices(net.undir, lou_size < 2)
+#add membership as a variable
+#isolate by variable
+#delete vertices according to that variable etc
+
+summary(net.undir)
+
+set.seed(986)
+
+par(mar=c(0,0,0,0)+.1)
+plot(comdet, net.undir, layout = l2, edge.arrow.size = 0.3, vertex.label=NA, vertex.size=5)
+
+
+
+pdf("plots/Communities_2.pdf")
 set.seed(986)
 
 par(mar=c(0,0,0,0)+.1)
 plot(comdet, net.undir, layout = l2, vertex.label=NA, vertex.size=5)
 dev.off()
+
+
 
 
 #Scrappies
