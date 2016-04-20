@@ -1,0 +1,156 @@
+"","V.net.undir..id","V.net.undir..name","V.net.undir..gender","V.net.undir..dept","V.net.undir..title","V.net.undir..membership","V.network..degree","V.network..betweenness","V.network..eigen"
+"1",1,"Phillip.K..Allen","M","ENA Gas West","Managing Director Trading",8,41,255.269570494749,0.00685292873467417
+"2",2,"John.Arnold","M","ENA Gas Financial","VP Trading",9,43,387.420140637849,0.0470057228248267
+"3",3,"Harry.Arora","M","ENA East Power","VP Trading",9,18,36.2383520431987,0.00696649086227968
+"4",4,"Robert.Badeer","M","ENA West Power","Manager Trading",13,21,424.159665766941,0.00204146757493293
+"5",5,"Susan.Bailey","F","ENA Legal","Specialist Legal",12,19,14.3726828182934,0.985218836769432
+"6",6,"Eric.Bass","M","ENA Gas Texas","Trader",8,30,174.122853457303,0.00112090897129422
+"7",7,"Don.Baughman.Jr.","M","ENA East Power","Manager Trading",1,0,0,6.32339529431785e-20
+"8",8,"Sally.Beck","F","Energy Operations","VP",9,81,1316.94549224464,0.00819161192296182
+"9",9,"Robert.Benson","M","ENA East Power","Director Trading",9,11,0,0.000477478888138687
+"10",10,"Lynn.Blair","F","ETS","Director",11,26,33.7434897428014,0.000190576491190683
+"11",11,"Sandra.F..Brawner","F","ENA Gas East","Director Trading",9,24,93.4090422546623,0.00038434521445746
+"12",12,"Rick.Buy","M","Enron","VP & CRO",9,25,72.4719955275089,0.00568339303376044
+"13",13,"Larry.Campbell","M","ETS","Specialist",11,14,85.6216024867475,0.00011836979070499
+"14",14,"Mike.Carson","M","ENA East Power","Manager Trading",9,16,47.7573041389937,0.000978475365999724
+"15",15,"Michelle.Cash","F","ENA Legal","Attorney",12,22,73.8361409838599,0.00459218306552704
+"16",16,"Monika.Causholli","F","ENA West Power Real Time","Analyst",15,8,144.180369860708,5.41762197850095e-06
+"17",17,"Shelley.Corman","F","ETS","VP",11,39,429.395291003744,0.000996246097470955
+"18",18,"Sean.Crandall","M","ENA West Power","Director Trading",15,12,147.067203765114,0.00733175013960189
+"19",19,"Martin.Cuilla","M","ENA Gas Central","Manager Trading",18,25,88.1611599483415,0.000276458830935811
+"20",20,"Jeff.Dasovich","M","Regulatory and Government Affairs","Director",13,49,1093.42705469324,0.00370272755371095
+"21",21,"Dana.Davis","F","N/A","Administrator",9,21,102.70667069926,0.0136589399123837
+"22",22,"Clint.Dean","M","ENA East Power","Manager Trading",9,10,4.30763407536342,0.000169595033451298
+"23",23,"Craig.Dean","M","ENA West Power Real Time","Specialist",15,6,3.00263698346624,5.26596539459025e-09
+"24",24,"David.W..Delainey","M","EWS","President & CEO",13,12,7.74583047345755,0.000312442853228311
+"25",25,"James.Derrick.Jr.","M","Enron","VP & General Counsel",2,0,0,6.32339529431785e-20
+"26",26,"Stacy.E..Dickson","F","ENA Legal","Counsel",19,18,10.0021915626839,0.00688592002364404
+"27",27,"Lindy.Donoho","F","ETS","Employee",11,34,66.4615770036744,0.00067824057088358
+"28",28,"Tom.Donohoe","M","ENA Gas Central","Manager Trading",18,8,25.6151416563797,0.000161723788466396
+"29",29,"Chris.Dorland","M","ENA East Power","Manager Trading",9,28,224.363223454189,0.000318625617670901
+"30",30,"Frank.Ermis","M","ENA Gas West","Director Trading",8,22,8.08850629564018,0.00154273204988618
+"31",31,"Daren.J..Farmer","M","ENA Gas Texas","Director Trading",9,13,17.9428653417325,0.000329683256908548
+"32",32,"Mary.Fischer","F","N/A","Employee",3,0,0,6.32339529431785e-20
+"33",33,"John.M..Forney","M","ENA East Power","Director Trading",9,19,421.585694402137,0.00032561197173205
+"34",34,"Drew.Fossum","M","ETS","VP & General Counsel",11,40,320.945919374262,0.00165030320365983
+"35",35,"Lisa.Gang","F","ENA West Power","Specialist",15,10,5.96888379544898,1.75976913619119e-05
+"36",36,"Randall.L..Gay","M","ENA Gas West","Associate",8,21,17.0242792069791,0.00170749929578746
+"37",37,"Rob.G..Gay","M","N/A","Employee",4,0,0,6.32339529431785e-20
+"38",38,"Tracy.Geaccone","F","ETS","Assistant",11,28,25.357179616005,0.000292943331332144
+"39",39,"Chris.Germany","M","ENA Gas East","Manager Trading",18,35,436.573155226957,0.00213994866350693
+"40",40,"Doug.Gilbert.Smith","M","ENA East Power","Director Trading",9,28,290.040002077465,0.00724590166424246
+"41",41,"Darron.C..Giron","M","Energy Operations","Manager Trading",8,10,8.65597375306278,9.13622444763919e-05
+"42",42,"John.Griffith","M","ENA Gas Financial","Manager Trading",5,0,0,6.32339529431785e-20
+"43",43,"Mike.Grigsby","M","ENA Gas West","VP Trading",8,74,1391.70515136203,0.00702068394797006
+"44",44,"Mark.Guzman","M","ENA West Power Real Time","Specialist",15,16,87.2839038057708,6.85025990732741e-06
+"45",45,"Mark.E..Haedicke","M","ENA Legal","Managing Director & General Counsel",9,39,335.836849686419,0.00806802095405332
+"46",46,"Mary.Hain","F","Regulatory and Government Affairs","Director",13,30,864.794384558939,0.00129726955318335
+"47",47,"Steven.Harris","M","ETS","VP",11,35,105.346148823162,0.00193279414066573
+"48",48,"Rod.Hayslett","M","ETS","VP & CFO",11,34,332.256465965961,0.0016427615773584
+"49",49,"Marie.Heard","F","ENA Legal","Specialist Legal",12,20,22.2432989799278,0.870647833300758
+"50",50,"Scott.Hendrickson","M","ENA Gas East","Director Trading",18,9,5.43159929492386,0.0010235712816953
+"51",51,"Juan.Hernandez","M","ENA East Power","Manager Trading",9,11,42.420654855738,0.000166000623459398
+"52",52,"Judy.Hernandez","F","Energy Operations","Administrator",9,1,0,7.42826859588638e-05
+"53",53,"Jeffrey.T..Hodge","M","ENA Legal","VP & Asst General Counsel",12,33,249.710524838433,0.0921588482377
+"54",54,"John.Hodge","M","ENA Gas East","Director Trading",18,12,15.4463256649346,0.00115483346635833
+"55",55,"Keith.Holst","M","ENA Gas West","Director Trading",8,27,94.1163366316168,0.00240955529351191
+"56",56,"Stanley.Horton","M","ETS","President & CEO",11,38,309.558661674633,0.000328495072015928
+"57",57,"Kevin.Hyatt","M","ETS","Director",11,36,276.80409608076,0.000939045865549754
+"58",58,"Dan.J..Hyvl","M","ENA Legal","Employee",6,0,0,6.32339529431785e-20
+"59",59,"Tana.Jones","F","ENA Legal","Specialist Legal",12,37,341.390390204895,0.835724700543478
+"60",60,"Vince.J..Kaminski","M","EWS","Managing Director Research",7,0,0,6.32339529431785e-20
+"61",61,"Steven.J..Kean","M","Enron","VP & Chief of Staff",13,36,149.876645220447,0.00812382776632425
+"62",62,"Peter.F..Keavey","M","ENA Gas East","Manager Trading",8,17,7.86104364384869,0.000245416497272112
+"63",63,"Kam.Keiser","M","Energy Operations","Manager Trading",8,58,644.742096025967,0.000678367747607593
+"64",64,"Jeff.King","M","ENA East Power","Manager Trading",9,14,69.4691403347276,0.000235433098127391
+"65",65,"Louise.Kitchen","F","EWS","COO",9,83,1776.73438226784,0.0990541731889638
+"66",66,"Tori.Kuykendall","F","ENA Gas West","Manager Trading",8,28,84.3947497365157,0.00213041887370437
+"67",67,"John.J..Lavorato","M","EWS","ENA President & CEO",13,1,0,1.96063704615123e-06
+"68",68,"Kenneth.Lay","M","Enron","President & CEO",9,66,1338.9048926254,0.000659670974489348
+"69",69,"Matthew.Lenhart","M","ENA Gas West","Analyst",8,39,160.056982822829,0.00265558320131908
+"70",70,"Andrew.H..Lewis","M","ENA Gas Central","Director Trading",9,9,10.8033387636956,0.000274560584626108
+"71",71,"Eric.Linder","M","ENA West Power Real Time","Specialist",15,9,0.2,6.85472258806871e-09
+"72",72,"Michelle.Lokay","F","ETS","Director",11,34,92.7984686515824,0.00068855871207567
+"73",73,"Teb.Lokey","M","ETS","Employee",11,29,92.5796379813742,0.000353907298532914
+"74",74,"Phillip.M..Love","M","Energy Operations","Specialist",8,37,229.064273273629,0.000241830074744568
+"75",75,"Paul.T..Lucci","M","ENA Gas West","Director Trading",19,17,20.8843543523419,0.0017061825515551
+"76",76,"Mike.Maggi","M","ENA Gas Financial","Director Trading",9,14,6.76746577122501,0.0111617967711581
+"77",77,"Kay.Mann","F","ENA Legal","Director & Counsel",12,28,160.449627657198,0.03188377146979
+"78",78,"Thomas.A..Martin","M","ENA Gas Texas","VP Trading",9,30,159.142171674818,0.00550362960149566
+"79",79,"Larry.May","M","ENA Gas Financial","Director Trading",9,23,179.050747394069,0.00356886314729991
+"80",80,"Danny.McCarty","M","ETS","VP & CTO",11,30,135.647568878117,0.000408394876580034
+"81",81,"Mark.McConnell","M","ETS","Director",11,28,44.0709168135271,0.000232640349653117
+"82",82,"Mike.McConnell","M","EWS","EGM President & CEO",9,26,141.507447557231,0.00132988619478623
+"83",83,"Brad.McKay","M","ENA Gas East","Director Trading",18,21,30.9501190823622,0.000921656515578102
+"84",84,"Jonathan.McKay","M","ENA Gas East","Director Trading",18,37,266.733656774149,0.00118934075038992
+"85",85,"Errol.McLaughlin.Jr.","M","Energy Operations","Specialist",10,0,0,6.32339529431785e-20
+"86",86,"Steven.Merris","M","ENA West Power Real Time","Specialist",15,1,0,6.32339529431785e-20
+"87",87,"Bert.Meyers","M","ENA West Power Real Time","Specialist",15,12,10.3869514518076,3.34781198759691e-07
+"88",88,"Patrice.L..Mims","F","ENA Gas Central","Director Trading",19,11,28.1945470669499,0.00226888149314168
+"89",89,"Matt.Motley","M","ENA West Power Real Time","Director Trading",15,20,229.297867916407,0.000356225743826505
+"90",90,"Scott.Neal","M","ENA Gas East","VP Trading",18,55,730.698148291389,0.00842637429904185
+"91",91,"Gerald.Nemec","M","ENA Legal","Manager",19,44,655.537569802602,0.0633677155297305
+"92",92,"Stephanie.Panus","F","ENA Legal","Specialist Legal",12,33,482.032193979679,0.627017625464121
+"93",93,"Joe.Parks","M","ENA Gas Central","Manager Trading",18,17,66.0406769285941,0.000582113846497604
+"94",94,"Susan.W..Pereira","F","ENA Gas East","Manager Trading",8,4,23.3810812746994,1.05494468010505e-05
+"95",95,"Debra.Perlingiere","F","ENA Legal","Specialist Legal",19,38,271.891176631746,0.0187944980797176
+"96",96,"Vladi.Pimenov","M","ENA Gas East","Associate",18,14,16.9916783120546,0.000278634508756177
+"97",97,"Phillip.Platter","M","ENA West Power","Specialist",15,8,31.7922198718246,5.34132181081995e-05
+"98",98,"Kevin.M..Presto","M","ENA East Power","VP Trading",9,52,876.098692610091,0.0313948662449855
+"99",99,"Joe.Quenet","M","ENA East Power","Manager Trading",9,9,37.9117547062316,0.000185663530806681
+"100",100,"Dutch.Quigley","M","ENA Gas Financial","Associate",9,24,143.488414263904,0.0351830360024315
+"101",101,"Bill.Rapp","M","ETS","Attorney",11,25,20.317963045122,9.17064704882667e-05
+"102",102,"Jay.Reitmeyer","M","ENA Gas West","Associate",8,31,118.550935781189,0.00245769685698412
+"103",103,"Cooper.Richey","M","ENA West Power","Associate",8,9,12.6298102419615,0.000331003926787436
+"104",104,"Andrea.Ring","F","ENA Gas East","Director Trading",18,14,47.1927007106074,0.000664876146772054
+"105",105,"Richard.Ring","M","EES","Employee",18,8,72.113102502732,0.00171236537320092
+"106",106,"Robin.Rodrigue","M","ENA Gas Central","Analyst",8,13,25.8615963663506,6.15631310047909e-05
+"107",107,"Benjamin.Rogers","M","ENA East Power","Associate",9,14,226.947353866472,0.000182664474132457
+"108",108,"Kevin.Ruscitti","M","ENA Gas Central","Manager Trading",18,15,57.3800426031129,0.00071927374162626
+"109",109,"Elizabeth.Sager","F","ENA Legal","VP & Asst General Counsel",12,37,228.423591633579,0.291624379183124
+"110",110,"Eric.Saibi","M","ENA East Power","Analyst",9,12,42.1547806036288,0.000234701611664764
+"111",111,"Holden.Salisbury","M","ENA West Power","Analyst",15,14,26.3205479418616,3.10834840615593e-05
+"112",112,"Monique.Sanchez","F","ENA Gas West","Associate",8,41,229.706227692821,0.00248969325577208
+"113",113,"Richard.B..Sanders","M","ENA Legal","VP & Asst General Counsel",9,26,104.656413003248,0.00244340285539813
+"114",114,"Diana.Scholtes","F","ENA West Power","Director Trading",15,16,261.339661954038,0.00730890546710234
+"115",115,"Darrell.Schoolcraft","M","ETS","Employee",11,25,27.7007400670004,8.49025462582004e-05
+"116",116,"Jim.Schwieger","M","ENA Gas Texas","Trader",9,25,144.135141829721,0.001404513306948
+"117",117,"Susan.Scott","F","ETS","Counsel",11,60,1591.4156133023,0.0042682749187369
+"118",118,"Susan.M..Scott","F","ENA Gas West","Analyst",8,42,390.549781879252,0.00189855980726157
+"119",119,"Cara.Semperger","F","ENA West Power","Specialist",15,24,670.517366354289,0.000293415042375111
+"120",120,"Sara.Shackleton","F","ENA Legal","General Counsel Asst",12,29,91.2127384214717,1
+"121",121,"Jeffrey.A..Shankman","M","EWS","COO",9,24,32.5872265418805,0.0019409094349256
+"122",122,"Richard.Shapiro","M","Regulatory and Government Affairs","VP of Regulatory Affairs",13,28,155.431244600134,0.0107348826248076
+"123",123,"Hunter.S..Shively","M","ENA Gas Central","VP Trading",9,42,357.474491681957,0.00900470268566837
+"124",124,"Jeff.Skilling","M","Enron","President & CEO",9,35,160.574972958258,0.000256862003045183
+"125",125,"Ryan.Slinger","M","ENA West Power Real Time","Specialist",15,13,152.294876213182,3.94683903406692e-07
+"126",126,"Matt.Smith","M","ENA Gas West","Associate",8,22,44.9550377655146,0.00174754740198331
+"127",127,"Geir.Solberg","M","ENA West Power Real Time","Analyst",15,16,370.047855374697,1.10131691604583e-06
+"128",128,"Steven.P..South","M","ENA Gas West","Director Trading",8,16,3.66214134400246,0.00160189792376366
+"129",129,"Theresa.Staab","F","ENA Gas West","Specialist",19,16,20.016787036549,0.00138453890167072
+"130",130,"Carol.St.Clair","F","ENA Legal","Director & General Counsel Asst",14,0,0,6.32339529431785e-20
+"131",131,"James.D..Steffes","M","Regulatory and Government Affairs","VP of Government Affairs",13,34,513.519420111097,0.00717553773760639
+"132",132,"Joe.Stepenovitch","M","ENA East Power","Specialist",9,9,37.7723199751688,0.000112509434877234
+"133",133,"Chris.Stokley","M","ENA West Power","Specialist",13,18,866.801598182125,6.94285257075553e-05
+"134",134,"Geoff.Storey","M","ENA Gas Central","Director Trading",9,28,129.065261043364,0.00262934824816389
+"135",135,"Fletcher.J..Sturm","M","ENA East Power","VP Trading",9,31,157.584020943329,0.00759558106368374
+"136",136,"Mike.Swerzbin","M","ENA West Power","VP Trading",15,19,383.354497887788,0.0121150288375528
+"137",137,"Kate.Symes","F","ENA West Power Real Time","Employee",15,27,813.324735355958,0.000103605741733737
+"138",138,"Mark.E..Taylor","M","ENA Legal","VP & General Counsel",16,0,0,6.32339529431785e-20
+"139",139,"Michael.E..Taylor","M","Energy Operations","Trader",17,0,0,6.32339529431785e-20
+"140",140,"Jane.M..Tholt","F","ENA Gas West","Director Trading",8,28,212.509294028441,0.00182749462240497
+"141",141,"Paul.D..Thomas","M","ENA East Power","Associate",9,10,35.2953717948937,0.00146745599378923
+"142",142,"Judy.Townsend","F","ENA Gas East","Manager Trading",18,8,2.36573379469972,0.00133155124209924
+"143",143,"Barry.Tycholiz","M","ENA Gas West","VP Trading",19,47,502.729011075179,0.0224461476347776
+"144",144,"Kim.S..Ward","F","ENA Gas West","Manager Trading",9,13,20.0023296330964,0.00124997047910366
+"145",145,"Kimberly.Watson","F","ETS","Director",11,35,75.5271394494391,0.000423746430012451
+"146",146,"V.Charles.Weldon","M","ENA Gas Texas","Associate",8,17,31.0697768978035,0.000912967168143161
+"147",147,"Greg.Whalley","M","EWS","President & CEO",9,44,420.452098527485,0.0186534316776548
+"148",148,"Stacey.W..White","F","Energy Operations","Director",9,24,686.082361393489,0.00854863572213612
+"149",149,"Mark.Whitt","M","ENA Gas West","VP Trading",19,22,74.1533448478453,0.0117277877448466
+"150",150,"Jason.Williams","M","ENA Gas Central","Specialist",12,18,44.926701180594,0.130708528633716
+"151",151,"Bill.Williams.III","M","ENA West Power Real Time","Analyst",20,0,0,6.32339529431785e-20
+"152",152,"Jason.Wolfe","M","ENA Gas West","Analyst",8,21,16.2503608459022,0.00159680126099267
+"153",153,"Paul.Y.Barbo","M","ETS","Director",11,20,36.3977372262348,0.000155151043318129
+"154",154,"Andy.Zipper","M","EWS","VP of Enron Online",9,38,170.206458252181,0.0401568859073977
+"155",155,"John.Zufferli","M","EWS","VP of Enron Canada",9,20,103.675414531065,0.0128656765784284
