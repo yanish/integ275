@@ -77,7 +77,7 @@ colnames(data_df) <- c("User_ID",
 head(data_df)
 View(data_df)
 
-write.csv(data_df, "Data/network_dat.csv")
+#write.csv(data_df, "Data/network_dat.csv")
 
 summary(network)
 
@@ -188,9 +188,11 @@ dev.off()
 
 
 #Community detection stuff
-#net.undir <- as.undirected(network)
+
 
 net.undir <- simplify(network, remove.multiple = FALSE, remove.loops = TRUE)
+net.undir <- as.undirected(net.undir)
+summary(net.undir)
 l1 <- layout_with_kk(net.undir)
 l2 <- layout_nicely(net.undir)
 l3 <- layout.fruchterman.reingold(net.undir)
@@ -228,7 +230,7 @@ colnames(Memb_df) <- c("User_ID",
                        "Community_ID")
 
 View(Memb_df)
-write.csv(data_df, "Data/Membership_dat.csv")
+write.csv(Memb_df, "Data/Membership_dat.csv")
 
 
 pdf("plots/Communities_1.pdf")
