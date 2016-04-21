@@ -8,6 +8,7 @@ library(network)
 library(ggplot2)
 library(statnet)
 library(ndtv)
+library(dplyr)
 
 # Set the working directory to the folder containing the example data
 setwd("/Users/Yanish/Documents/winter_2016/Integ_275/final") 
@@ -61,6 +62,7 @@ data_df <- data.frame(V(network)$id,
                       V(network)$degree,
                       V(network)$betweenness, 
                       V(network)$eigen)
+
 
 colnames(data_df) <- c("User_ID", 
                        "Name", 
@@ -186,6 +188,17 @@ dd <- degree.distribution(network, cumulative=T, mode="all")
 plot(dd, pch=19, cex=1, col=V(network)$color, xlab="Degree", ylab ="Cumulative Frequency")
 dev.off()
 
+#Betweenness boxplot
+bet_df <- data.frame(V(network)$gender, V(network)$betweenness)
+colnames(bet_df) <- (c("Gender", "Betweenness"))
+
+pdf("plots/Betweenness_distribution_by_gender.pdf")
+ggplot(bet_df, aes(x = Gender, y = Betweenness)) + geom_boxplot() + theme_minimal() + ggtitle("Betweenness Distribution by gender")
+dev.off()
+
+pdf("plots/Betweenness_distribution_by_gender.pdf")
+ggplot(data_df, aes(x = Gender, y = Degree)) + geom_boxplot() + theme_minimal() + ggtitle("Degree Distribution by gender")
+dev.off()
 
 #Community detection stuff
 
@@ -231,7 +244,6 @@ colnames(Memb_df) <- c("User_ID",
 
 View(Memb_df)
 write.csv(Memb_df, "Data/Membership_dat.csv")
-
 
 pdf("plots/Communities_1.pdf")
 set.seed(986)
